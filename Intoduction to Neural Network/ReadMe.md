@@ -49,7 +49,7 @@ We have created a function from which we can plot the data into the scatter grap
 
 ![image](https://user-images.githubusercontent.com/91750738/177253970-6554e730-fee9-4e9c-aca2-9417953f2949.png)
 
-From the abpve image it is clearly visible that predictions is not that correct as compared to the testing data
+From the above image it is clearly visible that predictions is not that correct as compared to the testing data
 so we try to improve our model through various way and we got the final one which perfetly overlaps the test data that means our model is predicting very correctly test data :)
 
 ![image](https://user-images.githubusercontent.com/91750738/177254142-189d59f1-0fb8-43db-85b8-5e8e5a0ffd53.png)
