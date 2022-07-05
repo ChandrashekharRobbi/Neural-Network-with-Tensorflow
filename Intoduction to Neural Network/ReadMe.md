@@ -1,4 +1,4 @@
-# Intorduction
+# Introduction
 In this Notebook we will be creating some scalar vector and try to build relation between features and labels and train the model by using neural networks(Tensorflow) .
 To see whether our model is able to predict the relation between features and labels which we have created
 
