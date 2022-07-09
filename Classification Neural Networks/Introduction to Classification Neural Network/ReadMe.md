@@ -2,7 +2,12 @@
 
 
 In this notebook i have used built in data set of `make_circles` which would be easy for understanding classification convolutional Neural Network
-In this my aim is to draw a line between two dots 
+
+
+Finally my aim is to draw a line between two dots 
+
+
+
 I said two dots right? Then it is **Binary Classification** :)
 
 I have followed certain steps which include:
