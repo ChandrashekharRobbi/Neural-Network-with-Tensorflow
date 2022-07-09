@@ -20,3 +20,18 @@ Our data set something look like the below plot :)
 
 isn't that beautiful? 
 Which put us in excitment to learn more about it :)
+
+## create the model
+
+Firstly we should start training data with a baseline (i.e very minimiistic model)
+
+## Evaluate the model
+
+Evaluation a crucial steps from which we can understand model is **underfitting**, **perfect** or **overfitting**
+
+# Improve the model
+
+We have to improve or model if our model is **underfitting** or **overfitting**
+
+Ways to improve our model:
+
