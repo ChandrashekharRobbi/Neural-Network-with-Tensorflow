@@ -12,3 +12,11 @@ I have followed certain steps which include:
 ## Visualize the data
 
 Firstly we have to understand the data pretty well to make predictions or we can say easy for creating a model
+
+Our data set something look like the below plot :)
+
+![image](https://user-images.githubusercontent.com/91750738/178101193-09e66f56-65e4-448d-9a18-2e2d67befb56.png)
+
+
+isn't that beautiful? 
+Which put us in excitment to learn more about it :)
