@@ -8,4 +8,4 @@ The Projects I have done till now:
     * [Medical Insurance](https://github.com/ChandrashekharRobbi/Neural-Network-with-Tensorflow/tree/main/Regression%20Neural%20Networks/Regression%20Problems/Medical%20Insurance)
 2. [Classification Problem](https://github.com/ChandrashekharRobbi/Neural-Network-with-Tensorflow/tree/main/Classification%20Neural%20Networks)
    * [Introduction to Classification Problem](https://github.com/ChandrashekharRobbi/Neural-Network-with-Tensorflow/tree/main/Classification%20Neural%20Networks/Introduction%20to%20Classification%20Neural%20Network)
-   * Fashion Mnist
+   * [Fashion Mnist](https://github.com/ChandrashekharRobbi/Neural-Network-with-Tensorflow/tree/main/Classification%20Neural%20Networks/Fashion%20Mnist)
