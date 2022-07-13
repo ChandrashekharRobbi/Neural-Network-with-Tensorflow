@@ -22,19 +22,9 @@ I have followed certain steps which include:
 ![image](https://user-images.githubusercontent.com/91750738/178717983-046610b5-fbee-4925-98c8-331f661b9119.png)
 
 # 2. Create Baseline Model
-    * Create the model
-  
-  
-      The baseline model is of 3 dense layers and 1 Flatten layers , output layer i have set to **softmax** because of the mulit class classification problem.
-      
-      
-  2.2 Compile the model
-  
-  
-      here i have used three parameters:
-        * 
+   * Create the model 
+   * Compile the model 
+   * Fit the model
 
-
-
-3.Evaluate the model
-4.Improve the model
+# 3.Evaluate the model
+# 4.Improve the model
