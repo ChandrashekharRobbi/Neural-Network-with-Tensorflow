@@ -26,5 +26,28 @@ I have followed certain steps which include:
    * Compile the model 
    * Fit the model
 
-# 3.Evaluate the model
+# 3. Evaluating the model
+
+To evaluate our multi class classification model we could do:
+
+* Evaluate it's peformance using other classification metrices (such as confusion matrix)
+
+![image](https://user-images.githubusercontent.com/91750738/178720482-62d28379-1df1-450f-b913-149a5cfa5130.png)
+
+* Access some of its predictions ( through visualization )
+
+![image](https://user-images.githubusercontent.com/91750738/178720548-af6270b6-d638-431c-8d23-fcb1359d4695.png)
+
+* Improve its results ( by training it for longer or changing the architecture)
+* Save and export it for use in an application
+
+
 # 4.Improve the model
+
+Model can be imporved many ways but the methods i have tried:
+* Training the model by finding the ideal **learning rate**
+* Converting the data into the normalized form
+* Adding more layers
+
+
+
