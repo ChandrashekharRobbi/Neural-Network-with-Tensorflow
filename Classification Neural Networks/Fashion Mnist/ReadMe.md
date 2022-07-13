@@ -51,4 +51,7 @@ Model can be imporved many ways but the methods i have tried:
 
 
 
-At the last our model is successfult to classify the Fashion Mnist test dataset with the accuracy of above **80%**
+At the last our model is able to predict the images of  Fashion Mnist test dataset with the accuracy of above **80%**  :)
+
+
+
