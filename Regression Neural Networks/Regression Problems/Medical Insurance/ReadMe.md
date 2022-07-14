@@ -22,18 +22,32 @@ Then i have also preprocessed the data by using `pd.get_dummies()` (one hot enco
 ![image](https://user-images.githubusercontent.com/91750738/178977384-2d758c36-8c3d-4d24-9e44-6a6a5f00bfc1.png)
 
 
-2. Create the baseline model
+![image](https://user-images.githubusercontent.com/91750738/178978479-19fffffe-2405-49ae-a473-5e856b8ba51f.png)
 
-Baseline model started with the 2 Dense layers ( we have to always start with the lowest layers and increase gradually in imporve stage)
+
+# 2. Create the baseline model
+
+Baseline model started with the 2 Dense layers ( we have to always start with the lowest layers and increase gradually in improve stage)
 
 ![image](https://user-images.githubusercontent.com/91750738/178977877-360284d8-a923-4edd-a2f7-377e4293ba74.png)
 
 
-3. Evaluate the model
+# 3. Evaluate the model
 
 
 In this stage we will be able to see how much model has learned the patterns and how perfect our model can predict the insurance price
 
 
 i have use the evaluation metrices as (MAE) 
-. Improve the model
+
+
+![image](https://user-images.githubusercontent.com/91750738/178978519-096657ec-69a5-4279-a122-953a76409335.png)
+
+
+# 4. Improve the model
+
+
+we have to imporve the model by :
+1. adding more layers
+2. changing the activation function
+3. changing the learning rate
