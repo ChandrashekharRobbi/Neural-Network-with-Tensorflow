@@ -10,6 +10,6 @@ The Projects I have done till now:
     * [Introduction to Regression Problems](https://github.com/ChandrashekharRobbi/Convolutional-Neural-Network-or-Neural-Network-with-Tensorflow/tree/main/Regression%20Neural%20Networks/Introduction%20to%20Regression%20Neural%20Network)
     * [Medical Insurance](https://github.com/ChandrashekharRobbi/Convolutional-Neural-Network-or-Neural-Network-with-Tensorflow/tree/main/Regression%20Neural%20Networks/Regression%20Problems/Medical%20Insurance)
 3. [Computer Vision using CNN](https://github.com/ChandrashekharRobbi/Convolutional-Neural-Network-or-Neural-Network-with-Tensorflow/tree/main/Computer%20Vision%20(CNN))
-    1 Food Vision
-        * Binary Classification
-        * Multi Class Classification
+    * Food Vision
+      * Binary Class Classification
+      * Multi Class Classification
