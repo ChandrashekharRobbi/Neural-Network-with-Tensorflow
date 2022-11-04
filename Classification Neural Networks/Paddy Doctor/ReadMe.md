@@ -49,6 +49,6 @@ c)	VGG16 with finetuning and Data Augmentation (model 4) : Accuracy = 95.53%
 
 So our model_4 gives highest accuracy so we will be selecting model_4 as the model to predict the data
 
-These will be prediction for 100 images by using VGG16(model_4)
+Below figure shows prediction for 100 images by using VGG16(model_4)
 
 <img src="VGG16(data_Augmented).png">
