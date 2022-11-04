@@ -13,7 +13,8 @@ Google Colab users can directly open notebook code itself takes care of download
 
 <hr>
 The main objective of this project is to develop a deep learning-based model to classify the given paddy leaf images accurately.
-This project is based on **multiclass** Classification
+
+This project is based on **Multiclass Classification**
 
 **In this project i have achieved highest accuracy of 95%** 
 
