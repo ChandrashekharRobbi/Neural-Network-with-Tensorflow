@@ -1,0 +1,33 @@
+{
+  "bacterial_leaf_blight": [
+    "Copper oxychloride 50 WP (copper oxychloride)",
+    "Nativo 75 WDG (Tebuconazole+trifloxystrobin)",
+    "Gem Star Super 325 SC (azoxystrobin+difenconazole) and Bordeaux mixture"
+  ],
+  "bacterial_leaf_streak": [
+    "streptomycin sulphate and tetracycline combination 300g +copper oxychloride 1.25 kg/ha"
+  ],
+  "bacterial_panicle_blight": [
+    "Carbendazim 50WP @ 500g/ha",
+    "Tricyclozole 75 WP @ 500g/ha",
+    "Metominostrobin 20 SC @ 500ml/ha"
+  ],
+  "blast": ["chlorothalonil", "tricyclazole", "hexaconazole"],
+  "brown_spot": ["captan", "thiram", "chitosan"],
+  "dead_heart": [
+    "Flubendiamide 240 SC + Thiacloprid 240 SC (combination product) @ 200 ml/ha",
+    "Flubendiamide 240 SC + Thiacloprid 240 SC (combination product) @ 250 ml/ha",
+    "Imidacloprid 17.8 SL @150 ml/ha"
+  ],
+  "downy_mildew": [
+    "Alion 500 SC Herbicide",
+    "Buctril 200 EC Herbicide",
+    "Infinity Ultra Herbicide"
+  ],
+  "hispa": ["Methyl parathion 0.05% or Quinalphos 0.05%"],
+  "normal": [
+    "Copper oxychloride 50% WP @ 2.5 gm/liter",
+    "Propiconazole 25% EC @ 1ml/litre of water"
+  ],
+  "tungro": ["Fenthion 100 EC (40 ml/ha)"]
+}
