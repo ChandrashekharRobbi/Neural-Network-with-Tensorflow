@@ -1,58 +1,47 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChandrashekharRobbi/Convolutional-Neural-Network-or-Neural-Network-with-Tensorflow/blob/main/Classification%20Neural%20Networks/Fashion%20Mnist/Fashion_Mnist.ipynb)
 # Fashion Mnist
 
-This project comes under **Multi-Class Classification**
+**Category:** **Multi-Class Classification**
 
+Fashion-MNIST is a dataset that features Zalando's article images—comprising a training set of 60,000 examples and a test set of 10,000 examples. Each instance is a 28x28 grayscale image, mapped with a label from 10 distinct classes. Fashion-MNIST is envisioned to act as a seamless drop-in substitute for the original MNIST dataset, primarily for benchmarking machine learning models. It retains the identical image size and the format of training/testing split as the traditional MNIST.
 
-
-Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. We intend Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
-
-
-The classes look some thing like this 
-
+### Classes Overview:
 
 ![dataset-cover](https://user-images.githubusercontent.com/91750738/178717492-52aca905-529e-4a39-aa78-dfdd8675eba0.png)
 
+Throughout this project, I've adhered to a specific set of steps, namely:
 
-
-I have followed certain steps which include:
-
-# 1. Visualize the data
-
+## 1. Visualize the Data
 
 ![image](https://user-images.githubusercontent.com/91750738/178717983-046610b5-fbee-4925-98c8-331f661b9119.png)
 
-# 2. Create Baseline Model
-   * Create the model 
-   * Compile the model 
-   * Fit the model
+## 2. Construct a Baseline Model
+   - Designing the model
+   - Compiling the model
+   - Training the model
 
-# 3. Evaluating the model
+## 3. Evaluate the Model
 
-To evaluate our multi class classification model we could do:
-
-* Evaluate it's peformance using other classification metrices (such as confusion matrix)
-
+To assess the proficiency of our multi-class classification model, I:
+- Analyzed its performance using various classification metrics, like the confusion matrix.
+  
 ![image](https://user-images.githubusercontent.com/91750738/178720482-62d28379-1df1-450f-b913-149a5cfa5130.png)
 
-* Access some of its predictions ( through visualization )
+- Sampled some of its predictions (visually represented below)
 
 ![image](https://user-images.githubusercontent.com/91750738/178720548-af6270b6-d638-431c-8d23-fcb1359d4695.png)
 
-* Improve its results ( by training it for longer or changing the architecture)
-* Save and export it for use in an application
+- Suggested potential enhancements (either by prolonging training or modifying its architecture)
+- Saved and exported the model for potential application integration
 
+## 4. Refinement of the Model
 
-# 4.Improve the model
+There are myriad ways to enhance a model. In this project, I've experimented with:
+- Determining and implementing the optimal **learning rate**
+- Normalizing the dataset
+- Introducing additional layers to the architecture
 
-Model can be imporved many ways but the methods i have tried:
-* Training the model by finding the ideal **learning rate**
-* Converting the data into the normalized form
-* Adding more layers
+In conclusion, the refined model confidently classifies images from the Fashion Mnist test dataset with an accuracy surpassing **80%**.
 
-
-
-At the last our model is able to predict the images of  Fashion Mnist test dataset with the accuracy of above **80%**  :)
-
-
-
+### 📢 Upcoming
+I'm excited to announce that a user-friendly UI for this model is in the pipeline and will be launched soon. Stay tuned!
